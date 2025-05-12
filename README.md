@@ -1,1 +1,1 @@
-# totp
+# totp generator
